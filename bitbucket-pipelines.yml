@@ -1,0 +1,14 @@
+#required: mcr.microsoft.com/playwright:v1.49.1-focal 
+pipelines:
+  default:
+    - step:
+        name: Playwright Tests
+        image: mcr.microsoft.com/playwright:v1.49.1-noble
+        script:
+          - npm ci        
+          # - Run the test cases 
+          - npx playwright test
+        artifacts:
+         - playwright-report/**
+        testReports:
+          - test-results/results.xml

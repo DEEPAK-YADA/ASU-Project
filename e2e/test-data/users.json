@@ -1,0 +1,36 @@
+{
+    "BFH_urls" : [
+
+    
+    "https://qa.asuonline.asu.edu/",
+    "https://qa.asuonline.asu.edu/admission/",
+    "https://qa.asuonline.asu.edu/online-degree-programs/",
+    "https://qa.asuonline.asu.edu/online-degree-programs/undergraduate/",
+    "https://qa.asuonline.asu.edu/online-degree-programs/graduate/",
+    "https://qa.asuonline.asu.edu/online-degree-programs/certificates/",
+    "https://qa.asuonline.asu.edu/study/",
+    "https://qa.asuonline.asu.edu/students/",
+    "https://qa.asuonline.asu.edu/about-us/contact-us/",
+    "https://qa.asuonline.asu.edu/about-us/faq/",
+    "https://qa.asuonline.asu.edu/about-us/accreditation/",
+    "https://qa.asuonline.asu.edu/about-us/rankings/",
+    "https://qa.asuonline.asu.edu/about-us/faculty/",
+    "https://qa.asuonline.asu.edu/about-us/",
+    "https://qa.asuonline.asu.edu/newsroom/",
+    "https://qa.asuonline.asu.edu/students/tutoring/"
+     ],
+  
+
+  "aFHUrls": [
+    "https://qa.asuonline.asu.edu/admission/nondegree/",
+    "https://qa.asuonline.asu.edu/what-it-costs/financial-aid/",
+    "https://qa.asuonline.asu.edu/what-it-costs/scholarship-opportunities/",
+    "https://qa.asuonline.asu.edu/students/reviews/",
+    "https://qa.asuonline.asu.edu/students/courses/",
+    "https://qa.asuonline.asu.edu/students/services/",
+    "https://qa.asuonline.asu.edu/students/community/",
+    "https://qa.asuonline.asu.edu/students/study-abroad/",
+    "https://qa.asuonline.asu.edu/students/graduation-beyond/",
+    "https://qa.asuonline.asu.edu/about-us/why-asu-online/"
+  ]
+}
